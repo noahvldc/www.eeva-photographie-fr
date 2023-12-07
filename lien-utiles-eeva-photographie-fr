@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LIENS UTILES</title>
+</head>
+<body>
+    <h1>LIEN UTILES</h1>
+    
+    <a href="https://www.eeva-photographie.fr/eeva-photographie.zip">
+    <p>Télécharger les fichiers en ZIP</p>
+    </a>
+
+    <a href="https://www.eeva-photographie.fr/">
+        <p>lien vers site en ligne eeva-photographie.fr</p>
+        </a>
+
+</body>
+</html>
